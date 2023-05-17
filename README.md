@@ -19,5 +19,7 @@ This is a simple implementation of the classic Snake game using the Pygame libra
 
 You can customize certain aspects of the game by modifying the constants defined at the top of `main.py`. For example, you can change the size of the window, speed of the snake, and color scheme.
 
+<br>
+
 
 ![demo](demo.png)
